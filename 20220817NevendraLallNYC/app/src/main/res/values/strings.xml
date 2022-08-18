@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">20220817-NevendraLall-NYC</string>
+    <array name="random_color_array">
+        <item>#37BFA8</item>
+        <item>#F50057</item>
+        <item>#3D5AFE</item>
+        <item>#FF3D00</item>
+        <!-- Random colors-->
+    </array>
+</resources>
